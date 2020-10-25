@@ -8,4 +8,4 @@ Just add the github owner nickname, a json response will appear, look for the em
 Enjoy
 
 
-***Special Thanks to Dario Manoukian for expanding script capabilities***
+***Special Thanks to Prykon for expanding script capabilities***
