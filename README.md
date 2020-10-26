@@ -3,7 +3,7 @@ Check if a Github user email is available to the public.
 
 Usage: Python3 GithubEmailFinder.py
 
-Just add the github owner nickname, a json response will appear, look for the email in the json response.
+Just add the github owner nickname, if any email is available, will be shown.
 
 Enjoy
 
